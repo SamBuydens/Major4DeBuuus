@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>locationdescription</key>
+		<string>Florisbar is de gezelligste absinthbar is Brussel. Ideaal voor een fijne avond en ideaal voor toeristen zich te zien verslikken.</string>
+		<key>pictures</key>
+		<array>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+		</array>
+		<key>longitude</key>
+		<real>4.354043</real>
+		<key>latitude</key>
+		<real>50.848425</real>
+		<key>name</key>
+		<string>Florisbar</string>
+	</dict>
+	<dict>
+		<key>locationdescription</key>
+		<string>Paul&apos;s Boutique is wellicht mijn favoriet &quot;restaurant&quot;. Het heeft SInt Gilles in Brussel onttroont wat ik niet voor mogelijk hield. </string>
+		<key>pictures</key>
+		<array>
+			<string>4</string>
+			<string>5</string>
+			<string>6</string>
+		</array>
+		<key>longitude</key>
+		<real>3.713052</real>
+		<key>latitude</key>
+		<real>51.036258</real>
+		<key>name</key>
+		<string>Paul&apos;s</string>
+	</dict>
+	<dict>
+		<key>locationdescription</key>
+		<string>Mijn geboorteplaats en zowat mijn favoriete plek om met vrienden te vertroeven. Een klein hoekje van Brussel maar één die bij elk bezoek herinneringen opleverd. Van het soort dat je niet thuis verteld... </string>
+		<key>pictures</key>
+		<array>
+			<string>7</string>
+			<string>8</string>
+			<string>9</string>
+		</array>
+		<key>longitude</key>
+		<real>4.327239</real>
+		<key>latitude</key>
+		<real>50.869359</real>
+		<key>name</key>
+		<string>Jette</string>
+	</dict>
+	<dict>
+		<key>locationdescription</key>
+		<string>Ik heb de tyfus aan deze stad en zijn weekinwoners, zijn duur bier en de heersende attitude. Maar het is de stad waar ik het meeste tijd doorbreng met mijn vriendin, tijd dat ik niet wil ruilen. En dat maakt er toch één van mijn favoriete plaatsen van.</string>
+		<key>pictures</key>
+		<array>
+			<string>10</string>
+			<string>11</string>
+			<string>12</string>
+		</array>
+		<key>longitude</key>
+		<real>3.727188</real>
+		<key>latitude</key>
+		<real>51.048351</real>
+		<key>name</key>
+		<string>Gent</string>
+	</dict>
+	<dict>
+		<key>locationdescription</key>
+		<string>Санкт-Петербург, de stad opgericht door Peter de Grote. Na het lezen van Russia: The Wild East van Martin Sixsmith moest en zou ik er naar toe gaan. Geen woorden om te bevatten wat voor een pracht en sfeer deze stad heeft. </string>
+		<key>pictures</key>
+		<array>
+			<string>13</string>
+			<string>14</string>
+			<string>15</string>
+		</array>
+		<key>longitude</key>
+		<real>30.30875</real>
+		<key>latitude</key>
+		<real>59.922608</real>
+		<key>name</key>
+		<string>St. Petersburg</string>
+	</dict>
+	<dict>
+		<key>locationdescription</key>
+		<string>In (onderandere) Ternat ben ik getogen. Zo goed als al mijn vrienden komen van hier en omstreken. Fijne plek, gezellig dorp. </string>
+		<key>pictures</key>
+		<array>
+			<string>16</string>
+			<string>17</string>
+			<string>18</string>
+		</array>
+		<key>longitude</key>
+		<real>4.1781</real>
+		<key>latitude</key>
+		<real>50.87119</real>
+		<key>name</key>
+		<string>Ternat</string>
+	</dict>
+</array>
+</plist>
